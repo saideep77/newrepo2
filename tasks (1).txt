@@ -1,5 +1,6 @@
-
-
+bhjj
+ nb jj
+jbjnkk
 tasks:
 what is git
 what is VCS or SCM
@@ -8,4 +9,5 @@ how to track a file
 how to commit a file
 how to check history of a file
 how to configure git
+
 how to unstage a file
